@@ -1,0 +1,23 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "say hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bommaraju/Halo-Dunia.git"
+  },
+  "keywords": [
+    "hello",
+    "satya"
+  ],
+  "author": "its me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bommaraju/Halo-Dunia/issues"
+  },
+  "homepage": "https://github.com/bommaraju/Halo-Dunia#readme"
+}
